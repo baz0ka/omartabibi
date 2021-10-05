@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omartabibi
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning about web and mobile application security.
-- 💞️ I’m looking to collaborate on web and mobile applicationa 🐫 development, system and IoT programming.
+- 💞️ I’m looking to collaborate on web and mobile application development 🐫, system and IoT programming.
 - 📫 How to reach me ...
 
 <!---
